@@ -1,6 +1,6 @@
 <strong>Hey there 👋</strong>
 
-<img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large">
+<img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large" width="200">
 
 My name is Jamel Hammoud. I am a CS student living in Canada.
 
