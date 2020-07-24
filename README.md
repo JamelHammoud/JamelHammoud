@@ -10,9 +10,20 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada �
   <li>I'm a student at Dalhousie University</li>
   <li>I enjoy both graphic design and web development</li>
   <li>My favorite coding language is PHP</li>
- </ul>
+</ul>
+
+<h2>💻 My Most Used Sites</h2>
+
+<ul>
+  <li><a href="https://www.underconsideration.com/brandnew/" aria-label="Visit www.underconsideration.com/brandnew">Brand New</a></li>
+  <li><a href="https://www.behance.net/" aria-label="Visit www.behance.net">Behance</a></li>
+  <li><a href="https://www.reddit.com/r/webdev/" aria-label="Visit www.reddit.com/r/webdev">Reddit</a></li>
+  <li><a href="https://dev.to/" aria-label="Visit dev.to">Dev.to</a></li>
+  <li><a href="https://codepen.io/" aria-label="Visit codepen.io">Codepen</a></li>
+  <li><a href="https://www.digitalocean.com/" aria-label="Visit www.digitalocean.com">Digitalocean</a></li>
+</ul>
  
- <h2>🔭 Currently working on</h2>
+<h2>🔭 Currently working on</h2>
 
 <p>I am currently working on a huge project that will revolutionize virtual events. Interested in learning more? <a href="mailto:devjamel@gmail.com">Contact me</a>.</p>
 
