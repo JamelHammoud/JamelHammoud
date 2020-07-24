@@ -1,6 +1,6 @@
 <strong>Hey there 👋</strong>
 
-<img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large" width="200">
+<img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large" width="200" alt="Jamel Hammoud's Octocat">
 
 My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada.
 
