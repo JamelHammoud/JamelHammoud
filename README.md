@@ -23,7 +23,7 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada �
   <li><a href="https://www.digitalocean.com/" aria-label="Visit www.digitalocean.com">Digitalocean</a></li>
 </ul>
  
-<h2>🔭 Currently working on</h2>
+<h2>🔭 I'm Currently Working On</h2>
 
 <p>I am currently working on a huge project that will revolutionize virtual events. Interested in learning more? <a href="mailto:devjamel@gmail.com">Contact me</a>.</p>
 
