@@ -1,18 +1,20 @@
-```diff
-  - Hi there 👋
-```
+<strong>Hey there 👋</strong>
 
+My name is Jamel Hammoud. I am a CS student living in Canada.
 
-<br>
-
-My name is <span class="color: red;">Jamel Hammoud</span>. I am a CS student living in Canada.
-
-<h2>About Me</h2>
+<h2>😄 About Me</h2>
 
 <ul>
-  <li>List item</li>
-  
-  </ul>
+  <li>I'm a student at Dalhousie University</li>
+  <li>I enjoy both graphic design and web development</li>
+  <li>My favorite coding language is PHP</li>
+ </ul>
+
+<h2>💬 Contact me</h2>
+
+<p>You can reach out to me at <a href="mailto:devjamel@gmail.com">devjamel@gmail.com</a>.</p>
+
+
 
 <!--
 **JamelHammoud/JamelHammoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
