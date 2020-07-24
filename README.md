@@ -2,7 +2,7 @@
 
 <img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large" width="200">
 
-My name is Jamel Hammoud. I am a CS student living in Canada.
+My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada.
 
 <h2>😄 About Me</h2>
 
