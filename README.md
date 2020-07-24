@@ -4,6 +4,13 @@ Hi there 👋
 
 My name is Jamel Hammoud. I am a CS student living in Canada.
 
+<h2>About Me</h2>
+
+<ul>
+  <li>List item</li>
+  
+  </ul>
+
 <!--
 **JamelHammoud/JamelHammoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
