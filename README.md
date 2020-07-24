@@ -4,6 +4,8 @@
 
 My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada 🍁.
 
+<img src="https://github-readme-stats.vercel.app/api?username=JamelHammoud&amp;show_icons=true" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=JamelHammoud&amp;show_icons=true" style="max-width:100%;"></a>
+
 <h2>😄 About Me</h2>
 
 <ul>
