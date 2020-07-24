@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<br>
+
+My name is Jamel Hammoud. I am a CS student living in Canada.
+
 <!--
 **JamelHammoud/JamelHammoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
