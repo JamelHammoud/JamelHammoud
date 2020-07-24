@@ -1,5 +1,7 @@
 <strong>Hey there 👋</strong>
 
+<img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large">
+
 My name is Jamel Hammoud. I am a CS student living in Canada.
 
 <h2>😄 About Me</h2>
