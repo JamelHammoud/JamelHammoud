@@ -2,7 +2,7 @@ Hi there 👋
 
 <br>
 
-My name is <span class="font-size: 3rem; position: relative; line-height: 1.2; -webkit-transform: scale(2, 4); transform: scale(2, 4);">Jamel Hammoud</a>. I am a CS student living in Canada.
+My name is <span class="color: red;">Jamel Hammoud</span>. I am a CS student living in Canada.
 
 <h2>About Me</h2>
 
