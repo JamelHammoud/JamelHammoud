@@ -12,6 +12,7 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada ðŸ
   <li>I'm a student at Dalhousie University</li>
   <li>I enjoy both graphic design and web development</li>
   <li>My favorite coding language is PHP</li>
+  <li>I use daily: <code>.php</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.svg</code>, <code>.psd</code> and <code>.ai</code></li>
 </ul>
 
 <h2>ðŸ’» My Most Used Sites</h2>
