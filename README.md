@@ -1,4 +1,7 @@
-Hi there 👋
+```diff
+  - Hi there 👋
+```
+
 
 <br>
 
@@ -25,8 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-```css
-   span {
-    color: red;
-   }
