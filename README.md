@@ -2,7 +2,7 @@
 
 <img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large" width="200" alt="Jamel Hammoud's Octocat">
 
-My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada.
+My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada 🍁.
 
 <h2>😄 About Me</h2>
 
@@ -11,6 +11,10 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada.
   <li>I enjoy both graphic design and web development</li>
   <li>My favorite coding language is PHP</li>
  </ul>
+ 
+ <h2>🔭 Currently working on</h2>
+
+<p>I am currently working on a huge project that will revolutionize virtual events. Interested in learning more? <a href="mailto:devjamel@gmail.com">Contact me</a>.</p>
 
 <h2>💬 Contact me</h2>
 
