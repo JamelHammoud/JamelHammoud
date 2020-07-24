@@ -18,12 +18,12 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada �
 <h2>💻 My Most Used Sites</h2>
 
 <ul>
-  <li><a href="https://www.underconsideration.com/brandnew/" aria-label="Visit www.underconsideration.com/brandnew">Brand New</a></li>
-  <li><a href="https://www.behance.net/" aria-label="Visit www.behance.net">Behance</a></li>
-  <li><a href="https://www.reddit.com/r/webdev/" aria-label="Visit www.reddit.com/r/webdev">Reddit</a></li>
-  <li><a href="https://dev.to/" aria-label="Visit dev.to">Dev.to</a></li>
-  <li><a href="https://codepen.io/" aria-label="Visit codepen.io">Codepen</a></li>
-  <li><a href="https://www.digitalocean.com/" aria-label="Visit www.digitalocean.com">Digitalocean</a></li>
+  <li><a href="https://www.underconsideration.com/brandnew/" target="_blank" aria-label="Visit www.underconsideration.com/brandnew">Brand New</a></li>
+  <li><a href="https://www.behance.net/" target="_blank" aria-label="Visit www.behance.net">Behance</a></li>
+  <li><a href="https://www.reddit.com/r/webdev/" target="_blank" aria-label="Visit www.reddit.com/r/webdev">Reddit</a></li>
+  <li><a href="https://dev.to/" target="_blank" aria-label="Visit dev.to">Dev.to</a></li>
+  <li><a href="https://codepen.io/" target="_blank" aria-label="Visit codepen.io">Codepen</a></li>
+  <li><a href="https://www.digitalocean.com/" target="_blank" aria-label="Visit www.digitalocean.com">Digitalocean</a></li>
 </ul>
  
 <h2>🔭 I'm Currently Working On</h2>
