@@ -11,7 +11,6 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada ðŸ
 <ul>
   <li>I'm a student at Dalhousie University</li>
   <li>I enjoy both graphic design and web development</li>
-  <li>My favorite coding language is PHP</li>
   <li>I use daily: <code>.ts</code>, <code>.js</code>, <code>.php</code>, <code>.html</code>, <code>.css</code>, <code>.java</code></li>
 </ul>
 
