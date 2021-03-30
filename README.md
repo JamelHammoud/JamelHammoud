@@ -33,15 +33,12 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada ğŸ
 
 <p>You can reach out to me at <a href="mailto:jamel@jasminestar.com">jamel@jasminestar.com</a>.</p>
 
-<a href="https://twitter.com/jamel__hammoud">
-  <img align="left" alt="Jamel Hammoud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jamelhammoud/">
+<a target="_blank" href="https://www.linkedin.com/in/jamelhammoud/">
   <img align="left" alt="Jamel Hammoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jamel.hammoud/">
+<a target="_blank" href="https://www.instagram.com/jamel.hammoud/">
   <img align="left" alt="Jamel Hammoud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/lemaj2002">
+<a target="_blank" href="https://www.reddit.com/user/lemaj2002">
   <img align="left" alt="Jamel Hammoud | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
