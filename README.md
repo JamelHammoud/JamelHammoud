@@ -12,7 +12,7 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada �
   <li>I'm a student at Dalhousie University</li>
   <li>I enjoy both graphic design and web development</li>
   <li>My favorite coding language is PHP</li>
-  <li>I use daily: <code>.php</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.svg</code>, <code>.psd</code> and <code>.ai</code></li>
+  <li>I use daily: <code>.ts</code>, <code>.js</code>, <code>.php</code>, <code>.html</code>, <code>.css</code>, <code>.java</code></li>
 </ul>
 
 <h2>💻 My Most Used Sites</h2>
@@ -28,11 +28,11 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada �
  
 <h2>🔭 I'm Currently Working On</h2>
 
-<p>I am currently working on a huge project that will revolutionize virtual events. Interested in learning more? <a href="mailto:devjamel@gmail.com">Contact me</a>.</p>
+<p>I am currently working on <a href="https://www.socialcurator.com/">Social Curator</a>.</p>
 
 <h2>💬 Contact me</h2>
 
-<p>You can reach out to me at <a href="mailto:devjamel@gmail.com">devjamel@gmail.com</a>.</p>
+<p>You can reach out to me at <a href="mailto:jamel@jasminestar.com">jamel@jasminestar.com</a>.</p>
 
 <a href="https://twitter.com/jamel__hammoud">
   <img align="left" alt="Jamel Hammoud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -46,19 +46,3 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada �
 <a href="https://www.reddit.com/user/lemaj2002">
   <img align="left" alt="Jamel Hammoud | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
-
-<!--
-**JamelHammoud/JamelHammoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
