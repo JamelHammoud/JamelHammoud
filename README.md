@@ -31,7 +31,7 @@ My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada ğŸ
 
 <h2>ğŸ’¬ Contact me</h2>
 
-<p>You can reach out to me at <a href="mailto:jamel@jasminestar.com">jamel@jasminestar.com</a>.</p>
+<p>You can reach out to me at <a href="mailto:jamel@jasminestar.com">jamel@socialcurator.com</a>.</p>
 
 <a target="_blank" href="https://www.linkedin.com/in/jamelhammoud/">
   <img align="left" alt="Jamel Hammoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
