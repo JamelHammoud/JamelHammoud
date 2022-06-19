@@ -7,7 +7,7 @@ My name is <strong>Jamel Hammoud</strong>. I'm a software developer at <a href="
 
 You can reach out to me at <a href="mailto:jamel@socialcurator.com">jamel@socialcurator.com</a> or through my <a href="https://jamelhammoud.com/">portfolio website</a>.
 
-<h3>My Most Used Sites</h3>
+<h3>Sites I Enjoy Using</h3>
 
 <ul>
   <li>
