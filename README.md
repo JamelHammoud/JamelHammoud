@@ -1,36 +1,43 @@
-<strong>Hey there 👋</strong>
+<h1>
+  <img align="left" src="https://jamelhammoud.com/static/media/headshot.2ad356e8.png" height="45"/>
+  Hey there 👋
+</h1>
 
-<img src="https://pbs.twimg.com/media/EdpvYLCXsAAFxMI?format=png&name=large" width="200" alt="Jamel Hammoud's Octocat">
+My name is <strong>Jamel Hammoud</strong>. I'm a software developer at <a href="https://socialcurator.com/" target="_blank" aria-label="Visit Social Curator">Social Curator</a>.
 
-My name is <strong>Jamel Hammoud</strong>. I am a CS student living in Canada 🍁.
+You can reach out to me at <a href="mailto:jamel@socialcurator.com">jamel@socialcurator.com</a> or through my <a href="https://jamelhammoud.com/">portfolio website</a>.
 
-<img src="https://github-readme-stats.vercel.app/api?username=JamelHammoud&amp;show_icons=true" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=JamelHammoud&amp;show_icons=true" style="max-width:100%;"></a>
-
-<h2>💻 My Most Used Sites</h2>
+<h3>My Most Used Sites</h3>
 
 <ul>
-  <li><a href="https://www.underconsideration.com/brandnew/" target="_blank" aria-label="Visit www.underconsideration.com/brandnew">Brand New</a></li>
-  <li><a href="https://www.behance.net/" target="_blank" aria-label="Visit www.behance.net">Behance</a></li>
-  <li><a href="https://www.reddit.com/r/webdev/" target="_blank" aria-label="Visit www.reddit.com/r/webdev">Reddit</a></li>
-  <li><a href="https://dev.to/" target="_blank" aria-label="Visit dev.to">Dev.to</a></li>
-  <li><a href="https://codepen.io/" target="_blank" aria-label="Visit codepen.io">Codepen</a></li>
-  <li><a href="https://www.digitalocean.com/" target="_blank" aria-label="Visit www.digitalocean.com">Digitalocean</a></li>
+  <li>
+    <a href="https://www.underconsideration.com/brandnew/" target="_blank" aria-label="Visit www.underconsideration.com/brandnew">
+      <img height="12" src="https://www.underconsideration.com/brandnew/wp/wp-content/themes/make/_favicon/favicon-16x16.png"/>
+      Brand New
+    </a>
+  </li>
+  <li>
+    <a href="https://news.ycombinator.com/" target="_blank" aria-label="Visit Hacker News">
+      <img height="12" src="https://news.ycombinator.com/favicon.ico"/> 
+      Hacker News
+    </a>
+  </li>
+  <li>
+    <a href="https://www.reddit.com/r/webdev/" target="_blank" aria-label="Visit www.reddit.com/r/webdev">
+      <img height="12" src="https://styles.redditmedia.com/t5_2qs0q/styles/communityIcon_kxcmzy9bt1381.jpg?width=256&format=pjpg&s=0a2e472f6fae0712fee4a3b5d44920fe35dbcdaa"/>
+      r/webdev
+    </a>
+  </li>
+  <li>
+    <a href="https://www.netlify.com/" target="_blank" aria-label="Visit www.netlify.com">
+      <img height="12" src="https://www.netlify.com/v3/static/favicon/favicon-16x16.png"/> 
+      Netlify
+    </a>
+  </li>
+  <li>
+    <a href="https://www.cloudflare.com/" target="_blank" aria-label="Visit www.cloudflare.com">
+      <img height="12" src="https://www.cloudflare.com/favicon.ico"/> 
+      Cloudflare
+    </a>
+  </li>
 </ul>
- 
-<h2>🔭 I'm Currently Working On</h2>
-
-<p>I am currently working on <a href="https://www.socialcurator.com/">Social Curator</a>.</p>
-
-<h2>💬 Contact me</h2>
-
-<p>You can reach out to me at <a href="mailto:jamel@jasminestar.com">jamel@socialcurator.com</a>.</p>
-
-<a target="_blank" href="https://www.linkedin.com/in/jamelhammoud/">
-  <img align="left" alt="Jamel Hammoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/jamel.hammoud/">
-  <img align="left" alt="Jamel Hammoud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://www.reddit.com/user/lemaj2002">
-  <img align="left" alt="Jamel Hammoud | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
