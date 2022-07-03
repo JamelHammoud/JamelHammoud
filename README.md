@@ -1,5 +1,4 @@
 <h1>
-  <img align="left" src="https://jamelhammoud.com/static/media/headshot.2ad356e8.png" height="45"/>
   Hey there 👋
 </h1>
 
